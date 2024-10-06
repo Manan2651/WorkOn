@@ -1,0 +1,213 @@
+[02-Apr-2022 04:15:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\htdocs\workon\worker\config.php:12
+Stack trace:
+#0 C:\xampp\htdocs\workon\worker\signup_worker.php(2): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\workon\worker\config.php on line 12
+[02-Apr-2022 04:15:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\htdocs\workon\worker\config.php:12
+Stack trace:
+#0 C:\xampp\htdocs\workon\worker\signup_worker.php(2): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\workon\worker\config.php on line 12
+[02-Apr-2022 04:15:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\htdocs\workon\worker\config.php:12
+Stack trace:
+#0 C:\xampp\htdocs\workon\worker\signup_worker.php(2): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\workon\worker\config.php on line 12
+[02-Apr-2022 04:15:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\htdocs\workon\worker\config.php:12
+Stack trace:
+#0 C:\xampp\htdocs\workon\worker\signup_worker.php(2): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\workon\worker\config.php on line 12
+[02-Apr-2022 04:15:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\htdocs\workon\worker\config.php:12
+Stack trace:
+#0 C:\xampp\htdocs\workon\worker\signup_worker.php(2): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\workon\worker\config.php on line 12
+[02-Apr-2022 04:15:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\htdocs\workon\worker\config.php:12
+Stack trace:
+#0 C:\xampp\htdocs\workon\worker\signup_worker.php(2): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\workon\worker\config.php on line 12
+[02-Apr-2022 04:15:17 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php72\sess_140leetdubnpk9cnlknr88eu7n, O_RDWR) failed: No such file or directory (2) in C:\xampp\htdocs\workon\worker\login.php on line 2
+[02-Apr-2022 04:15:17 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php72) in C:\xampp\htdocs\workon\worker\login.php on line 2
+[02-Apr-2022 04:15:19 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php72\sess_140leetdubnpk9cnlknr88eu7n, O_RDWR) failed: No such file or directory (2) in C:\xampp\htdocs\workon\worker\login.php on line 2
+[02-Apr-2022 04:15:19 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php72) in C:\xampp\htdocs\workon\worker\login.php on line 2
+[02-Apr-2022 04:15:20 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php72\sess_140leetdubnpk9cnlknr88eu7n, O_RDWR) failed: No such file or directory (2) in C:\xampp\htdocs\workon\worker\login.php on line 2
+[02-Apr-2022 04:15:20 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php72) in C:\xampp\htdocs\workon\worker\login.php on line 2
+[02-Apr-2022 04:15:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\htdocs\workon\worker\config.php:12
+Stack trace:
+#0 C:\xampp\htdocs\workon\worker\signup_worker.php(2): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\workon\worker\config.php on line 12
+[02-Apr-2022 04:15:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\htdocs\workon\worker\config.php:12
+Stack trace:
+#0 C:\xampp\htdocs\workon\worker\signup_worker.php(2): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\workon\worker\config.php on line 12
+[02-Apr-2022 04:15:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\htdocs\workon\worker\config.php:12
+Stack trace:
+#0 C:\xampp\htdocs\workon\worker\signup_worker.php(2): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\workon\worker\config.php on line 12
+[02-Apr-2022 04:16:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\htdocs\workon\worker\config.php:12
+Stack trace:
+#0 C:\xampp\htdocs\workon\worker\signup_worker.php(2): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\workon\worker\config.php on line 12
+[02-Apr-2022 04:16:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\htdocs\workon\worker\config.php:12
+Stack trace:
+#0 C:\xampp\htdocs\workon\worker\signup_worker.php(2): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\workon\worker\config.php on line 12
+[02-Apr-2022 04:16:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\htdocs\workon\worker\config.php:12
+Stack trace:
+#0 C:\xampp\htdocs\workon\worker\signup_worker.php(2): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\workon\worker\config.php on line 12
+[02-Apr-2022 04:16:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\htdocs\workon\worker\config.php:12
+Stack trace:
+#0 C:\xampp\htdocs\workon\worker\signup_worker.php(2): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\workon\worker\config.php on line 12
+[02-Apr-2022 04:16:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\htdocs\workon\worker\config.php:12
+Stack trace:
+#0 C:\xampp\htdocs\workon\worker\signup_worker.php(2): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\workon\worker\config.php on line 12
+[02-Apr-2022 04:16:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\htdocs\workon\worker\config.php:12
+Stack trace:
+#0 C:\xampp\htdocs\workon\worker\signup_worker.php(2): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\workon\worker\config.php on line 12
+[02-Apr-2022 04:16:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\htdocs\workon\worker\config.php:12
+Stack trace:
+#0 C:\xampp\htdocs\workon\worker\signup_worker.php(2): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\workon\worker\config.php on line 12
+[02-Apr-2022 04:16:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\htdocs\workon\worker\config.php:12
+Stack trace:
+#0 C:\xampp\htdocs\workon\worker\signup_worker.php(2): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\workon\worker\config.php on line 12
+[02-Apr-2022 04:16:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\htdocs\workon\worker\config.php:12
+Stack trace:
+#0 C:\xampp\htdocs\workon\worker\signup_worker.php(2): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\workon\worker\config.php on line 12
+[02-Apr-2022 04:16:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\htdocs\workon\worker\config.php:12
+Stack trace:
+#0 C:\xampp\htdocs\workon\worker\signup_worker.php(2): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\workon\worker\config.php on line 12
+[02-Apr-2022 04:16:42 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php72\sess_140leetdubnpk9cnlknr88eu7n, O_RDWR) failed: No such file or directory (2) in C:\xampp\htdocs\workon\worker\login.php on line 2
+[02-Apr-2022 04:16:42 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php72) in C:\xampp\htdocs\workon\worker\login.php on line 2
+[02-Apr-2022 04:16:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\htdocs\workon\worker\config.php:12
+Stack trace:
+#0 C:\xampp\htdocs\workon\worker\login.php(6): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\workon\worker\config.php on line 12
+[02-Apr-2022 04:16:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\htdocs\workon\worker\config.php:12
+Stack trace:
+#0 C:\xampp\htdocs\workon\worker\signup_worker.php(2): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\workon\worker\config.php on line 12
+[02-Apr-2022 04:17:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\htdocs\workon\worker\config.php:12
+Stack trace:
+#0 C:\xampp\htdocs\workon\worker\signup_worker.php(2): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\workon\worker\config.php on line 12
+[02-Apr-2022 04:17:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\htdocs\workon\worker\config.php:12
+Stack trace:
+#0 C:\xampp\htdocs\workon\worker\signup_worker.php(2): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\workon\worker\config.php on line 12
+[02-Apr-2022 04:17:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\htdocs\workon\worker\config.php:12
+Stack trace:
+#0 C:\xampp\htdocs\workon\worker\signup_worker.php(2): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\workon\worker\config.php on line 12
+[02-Apr-2022 04:17:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\htdocs\workon\worker\config.php:12
+Stack trace:
+#0 C:\xampp\htdocs\workon\worker\signup_worker.php(2): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\workon\worker\config.php on line 12
+[02-Apr-2022 04:17:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\htdocs\workon\worker\config.php:12
+Stack trace:
+#0 C:\xampp\htdocs\workon\worker\signup_worker.php(2): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\workon\worker\config.php on line 12
+[02-Apr-2022 04:17:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\htdocs\workon\worker\config.php:12
+Stack trace:
+#0 C:\xampp\htdocs\workon\worker\signup_worker.php(2): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\workon\worker\config.php on line 12
+[02-Apr-2022 04:17:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\htdocs\workon\worker\config.php:12
+Stack trace:
+#0 C:\xampp\htdocs\workon\worker\signup_worker.php(2): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\workon\worker\config.php on line 12
+[02-Apr-2022 04:17:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\htdocs\workon\worker\config.php:12
+Stack trace:
+#0 C:\xampp\htdocs\workon\worker\signup_worker.php(2): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\workon\worker\config.php on line 12
+[02-Apr-2022 04:17:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\htdocs\workon\worker\config.php:12
+Stack trace:
+#0 C:\xampp\htdocs\workon\worker\signup_worker.php(2): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\workon\worker\config.php on line 12
+[02-Apr-2022 04:20:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\htdocs\workon\worker\config.php:12
+Stack trace:
+#0 C:\xampp\htdocs\workon\worker\signup_worker.php(2): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\workon\worker\config.php on line 12
+[02-Apr-2022 04:20:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\htdocs\workon\worker\config.php:12
+Stack trace:
+#0 C:\xampp\htdocs\workon\worker\signup_worker.php(2): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\workon\worker\config.php on line 12
+[02-Apr-2022 04:20:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\htdocs\workon\worker\config.php:12
+Stack trace:
+#0 C:\xampp\htdocs\workon\worker\signup_worker.php(2): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\workon\worker\config.php on line 12
+[02-Apr-2022 04:20:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\htdocs\workon\worker\config.php:12
+Stack trace:
+#0 C:\xampp\htdocs\workon\worker\signup_worker.php(2): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\workon\worker\config.php on line 12
+[02-Apr-2022 04:20:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\htdocs\workon\worker\config.php:12
+Stack trace:
+#0 C:\xampp\htdocs\workon\worker\signup_worker.php(2): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\workon\worker\config.php on line 12
+[02-Apr-2022 04:20:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\htdocs\workon\worker\config.php:12
+Stack trace:
+#0 C:\xampp\htdocs\workon\worker\signup_worker.php(2): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\workon\worker\config.php on line 12
+[02-Apr-2022 04:20:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\htdocs\workon\worker\config.php:12
+Stack trace:
+#0 C:\xampp\htdocs\workon\worker\signup_worker.php(2): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\workon\worker\config.php on line 12
+[02-Apr-2022 04:20:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\htdocs\workon\worker\config.php:12
+Stack trace:
+#0 C:\xampp\htdocs\workon\worker\signup_worker.php(2): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\workon\worker\config.php on line 12
+[02-Apr-2022 04:20:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\htdocs\workon\worker\config.php:12
+Stack trace:
+#0 C:\xampp\htdocs\workon\worker\signup_worker.php(2): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\workon\worker\config.php on line 12
+[02-Apr-2022 04:28:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\htdocs\workon\worker\config.php:12
+Stack trace:
+#0 C:\xampp\htdocs\workon\worker\signup_worker.php(2): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\workon\worker\config.php on line 12
+[02-Apr-2022 04:28:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\htdocs\workon\worker\config.php:12
+Stack trace:
+#0 C:\xampp\htdocs\workon\worker\signup_worker.php(2): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\workon\worker\config.php on line 12
